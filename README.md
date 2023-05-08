@@ -1,7 +1,7 @@
-# react-vite-amplify 05.2023
-React using Vite
+# React-Typescript + Vite + Amplify 05.2023
 
 Please follow my blog at https://dev.to/ethanlloyd21
+Checkout my page at https://lloydmarcelino.com
 
 Vite documentation: https://vitejs.dev/guide/
 
