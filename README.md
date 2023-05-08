@@ -1,4 +1,4 @@
-# react-vite-amplify
+# react-vite-amplify 05.2023
 React using Vite
 
 Please follow my blog at https://dev.to/ethanlloyd21
